@@ -1,0 +1,3 @@
+model:
+  provider: "zai"
+  default: "glm-5"
